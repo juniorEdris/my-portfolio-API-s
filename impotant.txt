@@ -1,0 +1,19 @@
+MongoDB database structure:
+
+
+devoloper_info= {
+	id,
+	name,
+	image,
+	description,
+	resume_link,
+	email,
+	phone,
+}
+projects = {
+	id,
+	name,
+	image,
+	description,
+	link,
+}
