@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-mogoose-api",
+  "version": "1.0.0",
+  "description": "this is my own api file.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "raghib",
+    "portfolio",
+    "api"
+  ],
+  "author": "eftekar raghib",
+  "license": "ISC"
+}
